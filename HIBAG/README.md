@@ -1,4 +1,4 @@
-| File Name            | Date              | Size |
+| File Name            | Release Date      | Size |
 |:---------------------|:------------------|:-----|
 | HIBAG_0.9.1.tar.gz   | 21-Jun-2012 12:31 | 166K |
 | HIBAG_0.9.2.tar.gz   | 05-Aug-2012 20:21 | 167K |
