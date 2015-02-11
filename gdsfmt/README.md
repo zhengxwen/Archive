@@ -15,7 +15,6 @@
 | gdsfmt_0.9.13.tar.gz    | 20-May-2013 07:49 | 1.5M |
 | gdsfmt_0.9.14.tar.gz    | 28-May-2013 07:39 | 1.5M |
 | gdsfmt_0.9.15.tar.gz    | 24-Aug-2013 07:02 | 1.5M |
-| gdsfmt_0.9.tar.gz       | 04-Jan-2011 08:28 | 130K |
 | gdsfmt_1.0.0.tar.gz     | 21-Sep-2013 15:09 | 1.5M |
 | gdsfmt_1.0.1.tar.gz     | 07-Jan-2014 09:45 | 745K |
 | gdsfmt_1.0.2.tar.gz     | 24-Jan-2014 08:19 | 749K |
