@@ -12,3 +12,4 @@
 | HIBAG_1.2.2.tar.gz   | 21-Dec-2013 06:41 | 740K |
 | HIBAG_1.2.3.tar.gz   | 06-Mar-2014 08:01 | 346K |
 | HIBAG_1.2.4.tar.gz   | 03-Oct-2014 06:42 | 347K |
+| HIBAG_1.3.1.tar.gz   | 01-Mar-2015 06:42 | 929K |
