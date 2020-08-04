@@ -1,4 +1,4 @@
-HIBAG CRAN Archive before HIBAG is moved to Bioconductor:
+HIBAG CRAN Archive before it was moved to Bioconductor:
 =======
 
 | File Name            | Release Date      | Size |
